@@ -1,0 +1,8 @@
+#include "filters/filters.h"
+// #include "filters/blur_filter.h"
+// #include "filters/crop_filter.h"
+// #include "filters/edgedetection_filter.h"
+// #include "filters/grayscale_filter.h"
+// #include "filters/kuwahara_filter.h"
+// #include "filters/negative_filter.h"
+// #include "filters/sharpening_filter.h"
